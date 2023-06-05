@@ -1,2 +1,2 @@
 # Kolam_Game
-![MasterHead](![Kolam_Game](https://github.com/jayeshmuley10/Kolam_Game/assets/115483595/954c8e92-b3b3-4dd8-992c-20f7e328b03d))
+![Kolam_Game](https://github.com/jayeshmuley10/Kolam_Game/assets/115483595/be781f38-4e87-4a26-bf02-dc600ccd8eed)
